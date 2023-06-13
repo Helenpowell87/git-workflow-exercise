@@ -7,4 +7,4 @@ git add --all
 git commit -m "changes to flow"
 
 # push changes
-git push -u origin Helenpowell87
+git push
